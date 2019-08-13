@@ -9,4 +9,4 @@ It is your generated batch file.
 
 
 
-In source directory, must be only needed files, becouse, programm creates commands for every file in the source folder. Be careful!
+In source directory, must be only needed files, becouse, programm creates commands for every file in the source folder, exept files and folders, which begins with dot (.) . Be careful!
